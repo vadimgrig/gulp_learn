@@ -1,7 +1,6 @@
 {
   "dependencies": {
     "del": "^7.1.0",
-    "gulp": "^4.0.2",
     "gulp-autoprefixer": "^8.0.0",
     "gulp-bro": "^2.0.0",
     "gulp-csso": "^4.0.1",
@@ -11,5 +10,8 @@
     "gulp-sass": "^5.1.0",
     "gulp-webserver": "^0.9.1",
     "node-sass": "^9.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
   }
 }
